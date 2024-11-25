@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Mouse PUT",
+    "category": "Electronics",
+    "quantity": 30,
+    "unitPrice": 49.99,
+    "dateAdded": "2024-11-15",
+    "supplier": "Gadget World"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mouse PATCH extreme",
+    "category": "Electronics",
+    "quantity": 10,
+    "unitPrice": 499.99,
+    "dateAdded": "2024-11-15",
+    "supplier": "Gadget World"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse PATCH extremeV2",
+    "category": "Electronics",
+    "quantity": 1,
+    "unitPrice": 599.99,
+    "dateAdded": "2024-11-15",
+    "supplier": "Gadget World"
+  },
+  {
+    "id": 4,
+    "name": "LED Desk Lamp",
+    "category": "Home & Office",
+    "quantity": 120,
+    "unitPrice": 22,
+    "dateAdded": "2024-11-01",
+    "supplier": "Home Bright"
+  },
+  {
+    "id": 5,
+    "name": "Blender",
+    "category": "Kitchen",
+    "quantity": 15,
+    "unitPrice": 89.99,
+    "dateAdded": "2024-08-05",
+    "supplier": "KitchenMaster"
+  },
+  {
+    "id": 6,
+    "name": "Digital Thermometer",
+    "category": "Health",
+    "quantity": 40,
+    "unitPrice": 19.99,
+    "dateAdded": "2024-07-21",
+    "supplier": "HealthPlus"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "quantity": 90,
+    "unitPrice": 59.99,
+    "dateAdded": "2024-10-12",
+    "supplier": "AudioWave"
+  },
+  {
+    "id": 8,
+    "name": "Coffee Maker",
+    "category": "Kitchen",
+    "quantity": 25,
+    "unitPrice": 129.95,
+    "dateAdded": "2024-09-05",
+    "supplier": "BrewMaster"
+  },
+  {
+    "id": 9,
+    "name": "Adjustable Dumbbells",
+    "category": "Fitness",
+    "quantity": 10,
+    "unitPrice": 199.99,
+    "dateAdded": "2024-06-25",
+    "supplier": "FitMax"
+  },
+  {
+    "id": 10,
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "quantity": 60,
+    "unitPrice": 199.99,
+    "dateAdded": "2024-10-15",
+    "supplier": "SmartTech"
+  },
+  {
+    "id": 11,
+    "name": "test lower case",
+    "category": "electronics",
+    "quantity": 30,
+    "unitPrice": 49.99,
+    "dateAdded": "2024-11-15",
+    "supplier": "demo supplier"
+  }
+]
